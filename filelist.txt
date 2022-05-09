@@ -1,9 +1,0 @@
-map{
-	allias "dm/Hitlersfarm"
-	md5 "c1358dcbfae01686177310676512163c"
- 	url "https://github.com/Mohash1223/Mohash1223/blob/032b82c0d36a5bb2042ddf89ac052eefdd7fa2b1/hitlersfarm.pk3"
-}
-mod{
-        md5 "546b7d32e88a1acbcb2482c463aecb14"
-        url "https://github.com/Mohash1223/Mohash1223/blob/main/user_Medal_of_horror_weapons.pk3"
-}
