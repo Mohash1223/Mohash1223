@@ -1,0 +1,5 @@
+map{
+	allias "dm/Hitlersfarm"
+	md5 "c1358dcbfae01686177310676512163c"
+ 	url "https://github.com/Mohash1223/Mohash1223/blob/main/hitlersfarm.pk3"
+}
